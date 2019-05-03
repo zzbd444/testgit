@@ -2,9 +2,6 @@
 44444444444
 55555555555
 ccccccccccc
-<<<<<<< HEAD
 88888888888
 aaaaaaaaaaa
-=======
-88888888888
->>>>>>> dev2
+FFFFFFFFFFF
